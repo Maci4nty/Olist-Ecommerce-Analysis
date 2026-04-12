@@ -304,3 +304,4 @@ pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python,intellij,data
 .idea/misc.xml
+/.idea
