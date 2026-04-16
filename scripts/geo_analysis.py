@@ -28,5 +28,8 @@ query = ("""WITH clientOrder AS (
                     JOIN sellerOrder so
                     ON so.order_id = co.order_id""")
 
-res = pd.read_sql_query(query + " LIMIT 10", conn)
-print(res)
+geo_analysis = pd.read_sql_query(query, conn)
+
+geo_analysis.to_sql('delivery_geo_analysis', conn, if_exists='replace', index=False)
+
+conn.close()
