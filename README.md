@@ -1,5 +1,4 @@
-#Optymalizacja Logistyki E-commerce: Analiza wąskich gardeł
-#w doręczeniach (Olist Store)
+# Optymalizacja Logistyki E-commerce: Analiza wąskich gardeł doręczeniach (Olist Store)
 
 ## 🎯 Cel projektu
 Weryfikacja wpływu odległości geograficznej pomiędzy dostawcą a kupującym
