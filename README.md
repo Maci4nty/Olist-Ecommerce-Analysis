@@ -31,3 +31,6 @@ Przesyłki między stanami trwają o **87% dłużej**, niż dostawy lokalne
 
 * **Trendy czasowe:** Wzmożona aktywność zakupowa pod koniec tygodnia pozwalająca
 na lepsze planowanie zasobów magazynowych
+
+* 
+* ![Dashboard Power BI](final_delivery_dashboard.png)
